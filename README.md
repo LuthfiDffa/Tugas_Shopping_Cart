@@ -62,25 +62,29 @@ Dapat dilihat pada gambar, menunjukkan pengurangan jumlah produk Tablet Pro yang
 
 ---
 
-### 5. Mencoba menghapus semua produk dari keranjang
+### 5. Decrease to 0
 
 **Sebelum dihapus**
 
-<img width="638" height="991" alt="image" src="https://github.com/user-attachments/assets/8942c24a-e379-4ee3-bfa9-3c8acfbdc23f" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/8f3996e9-d924-426e-a10a-cf08e5651fe9" />
+
 
 **Sesudah dihapus**
 
-<img width="640" height="993" alt="image" src="https://github.com/user-attachments/assets/3ac31b4f-fd68-4489-ae08-ede49d9aae1a" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/fb903970-1750-445e-a320-179233fb06ad" />
 
-Dapat dilihat pada gambar diatas, gambar sebelum menunjukkan daftar produk yang telah ditambahkan dikeranjang, lalu gambar sesudah menunjukkan daftar produk sudah tidak ada lagi di keranjang (dihapus) dengan terdapat notifikasi di bawah, bahwa keterangan nama produk yang dihapus. Dan sekarang sudah tidak ada lagi produk di dalam keranjang.
+
+Dapat dilihat pada gambar, gambar pertama menunjukkan beberapa daftar produk yang telah ditambahkan ke keranjang, lalu gambar kedua menunjukkan  produk sudah tidak ada lagi di keranjang karena dikurangi hingga 0 atau dihapus, lalu ketika sudah tidak ada produk dikeranjang maka akan ada tulisan "your cart is empty" pada halaman.
 
 ---
 
-### 6. Melihat pesan notifikasi barang yang dihapus
+### 6. Clear all - Empty cart message
 
-<img width="221" height="48" alt="image" src="https://github.com/user-attachments/assets/25c70d06-b007-44d7-b6c7-e04fd97ed5f9" />
+<img width="266" height="59" alt="image" src="https://github.com/user-attachments/assets/d3a11139-ba3c-473d-ae98-5f6ef81fe164" />
 
-Dapat dilihat, jika kita menekan ikon sampah yang berarti menghapus produk, akan terdapat notifikasi pesan yang akan ditampilkan dengan menampilkan keterangan nama produk yang dihapus.
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/e37bb9a2-edd1-49d9-bc69-fdff54ee2366" />
+
+Dapat dilihat, jika kita menekan ikon sampah atau menghapus produk, akan ada notifikasi pesan yang akan menampilkan nama produk yang dihapus dan pada halaman keranjang akan ada tulisan "your cart is empty".
 
 ---
 
