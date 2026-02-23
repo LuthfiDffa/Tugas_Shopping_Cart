@@ -88,18 +88,21 @@ Dapat dilihat, jika kita menekan ikon sampah atau menghapus produk, akan ada not
 
 ---
 
-### 7. Mencoba menekan tombol kembali ke halam pertama, lalu melihat apakah badge masih sesuai
+### 7. Navigate back - Badge still correct
 
 **Daftar Produk yang Ada di Keranjang**
 
-<img width="638" height="394" alt="image" src="https://github.com/user-attachments/assets/a24012db-2adb-4a7d-a400-2497fcfda25d" />
+<img width="1919" height="534" alt="image" src="https://github.com/user-attachments/assets/509bbcb5-71b3-4d9d-9b41-d46a9d5345a5" />
 
-**Menekan Tombol Kembali ke Halaman Awal**
 
-<img width="636" height="937" alt="image" src="https://github.com/user-attachments/assets/c0225dfd-3752-4ce8-844e-cdf700c61002" />
+**Kembali ke Halaman Awal**
 
-**Kembali ke halaman keranjang & melihat apakah produk yang sudah dtambahkan masih tetap ada**
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/f75b61f4-ded8-4154-ac72-72d363f7ec7a" />
 
-<img width="633" height="383" alt="image" src="https://github.com/user-attachments/assets/332a2197-4f39-4fb7-a0d9-b0e4c6b81fb8" />
 
-Dapat dilihat, meskipun kita kembali ke halaman awal tetapi sudah menambahkan produk ke keranjang tetap tersimpan (tidak ke reset)
+**Kembali keranjang & mengecek apakah produk yang sudah dtambahkan tadi masih tetap ada**
+
+<img width="1919" height="546" alt="image" src="https://github.com/user-attachments/assets/f624ec1c-b7f6-407f-8d0d-879f551eceb9" />
+
+
+Dapat dilihat, walaupun kita kembali ke halaman home/awal tetapi sudah ada menambahkan produk ke keranjang, maka akan tetap tersimpan.
