@@ -32,30 +32,33 @@ Gambar diatas menunjukkan telah menambahkan 3 produk ke dalam keranjang. Kita bi
 
 
 ---
-### 3. Mencoba untuk menambahkan jumlah produk dari keranjang.
+### 3. Increase quantity
 
 **Sebelum menambahkan jumlah produk dari keranjang**
-<img width="620" height="937" alt="image" src="https://github.com/user-attachments/assets/91e6c3dc-163e-4495-a846-e59aaf994fb3" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a7f655c8-53dc-427b-a224-eca6962474da" />
 
 **Sesudah menambahkan jumlah produk dari keranjang**
-<img width="636" height="993" alt="image" src="https://github.com/user-attachments/assets/6b3fe3f8-13fa-4daf-bff2-8f7445459afe" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5e2aeb84-81a8-4731-9868-b3ad5bc96dbb" />
 
-Dapat dilihat pada gambar diatas, menunjukkan update/perubahan jumlah produk dari keranjang beserta harganya. Pada gambar sebelum, dapat dilihat produk yang dijumlahkan hanya 1 di masing-masing produk yang telah ditambahkan ke keranjang dengan total 24.500.000
-Lalu pada gambar sesudah ditambahkan jumlah produk terupdate juga harga nya menjadi 570.000.000. Hal ini membuktikan bahwa produk dapat ditambahkan dan diikuti jumlah total harga dari produk yang ada di keranjang.
+
+Dapat dilihat pada gambar, menunjukkan adanya perubahan jumlah produk dari keranjang beserta harganya. Pada gambar sebelum, dapat dilihat produk yang dijumlahkan hanya 1 di keranjang dengan total 23.500.000
+Lalu pada gambar sesudah menambahkan jumlah produk terupdate, harga nya berubah menjadi 660.000.000. Ini menunjukkan bahwa produk bisa ditambahkan dan jumlah total harga dari produk yang ada di keranjang juga ikut berubah.
 
 ---
 
-### 4. Mencoba mengurangi 1 jumlah produk
+### 4. Decrease to 1
 
 **Sebelum dikurangi**
 
-<img width="629" height="117" alt="image" src="https://github.com/user-attachments/assets/38ee31c7-1760-4a0d-9316-86710c20772a" />
+<img width="1912" height="141" alt="image" src="https://github.com/user-attachments/assets/a07c6565-93be-455e-9bf2-47ceb5de416e" />
+
 
 **Sesudah dikurangi**
 
-<img width="624" height="118" alt="image" src="https://github.com/user-attachments/assets/14a4cea2-cee1-4562-a8df-ba1b74ed9ee4" />
+<img width="1915" height="150" alt="image" src="https://github.com/user-attachments/assets/8c3d80c7-2ad3-44be-841d-ce76366a75df" />
 
-Dapat dilihat pada gambar diatas, menunjukkan pengurangan 1 jumlah produk Wireless Headphones yang awal jumlahnya 3, dikurangi 1 menjadi 2.
+
+Dapat dilihat pada gambar, menunjukkan pengurangan jumlah produk Tablet Pro yang awal jumlahnya 3, dikurangi menjadi 1.
 
 ---
 
