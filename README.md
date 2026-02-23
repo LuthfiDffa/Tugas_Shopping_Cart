@@ -5,31 +5,31 @@
 **NIM: 2409116102**
 
 ---
-### 📱 Tampilan Awal dari Projek Shopping_Cart
-<img width="637" height="989" alt="image" src="https://github.com/user-attachments/assets/845e0627-ddf5-4fdf-879c-3d40ec94bbf3" />
+### 📱 Tampilan Awal Aplikasi
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/13917739-e701-4710-b15e-5f3289613176" />
 
-Gambar diatas merupakan tampilan awal dari projek sistem cart ini. Ditampilan awal kita dapat melihat daftar produk dijual dengan informasi nama barang, harga, dan button untuk menambahkan produk ke dalam keranjang sebelum di beli. Lalu juga ada button keranjang untuk melihat informasi produk yang telah ditambahkan ke dalam keranjang.
 
----
-### 1. Mencoba Untuk Menambahkan 3 Produk ke Dalam Keranjang
-<img width="634" height="992" alt="image" src="https://github.com/user-attachments/assets/54e58050-44c1-4461-9a0e-2cf4e2d511af" />
-
-Gambar diatas menunjukkan produk yang telah ditambahkan ke dalam keranjang. Kita dapat melihat nya dengan menekan tombol keranjang/cart di pojok kanan atas, lalu tidak hanya melihat daftar produk yang telah ditambahkan ke dalam keranjang, tapi juga dapat melihat jumlah produk, menambahkan/mengurangi jumlah produk dari keranjang, total harga produk, serta dapat menghapus produk dari keranjang.
+Berikut merupakan tampilan awal dari projek atau aplikasi shopping cart ini. Ditampilan awal kita bisa melihat daftar produk dijual dengan berbagai informasi seperti nama barang, harga, dan tombol untuk menambahkan produk ke dalam keranjang. Lalu juga ada tombol keranjang untuk melihat  produk yang telah ditambahkan ke dalam keranjang.
 
 ---
+### 1. Add product 3x
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9daf9b14-c5ad-4b57-8c02-f5b06d9601b4" />
 
-### 2. Mencoba untuk menambahkan produk lain ke dalam keranjang
 
-**Sebelum ditambahkan produk lain**
+Gambar diatas menunjukkan telah menambahkan 3 produk ke dalam keranjang. Kita bisa mengecek produknya dengan menekan tombol keranjang dibagian kanan atas. Selain bisa melihat daftar produk yang sudah ditmbahkan kita juga bisa melihat total harga produk, menambah/mengurangi jumlah produk, serta menghapus produk dari keranjang.
 
-<img width="637" height="987" alt="image" src="https://github.com/user-attachments/assets/ed5624e9-bfdf-4fa9-97b4-b0871c494c31" />
+---
+
+### 2. Add different products
+
+**Sebelum menambahkan produk lain**
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9daf9b14-c5ad-4b57-8c02-f5b06d9601b4" />
 
 **Sesudah menambahkan produk lain**
 
-<img width="631" height="66" alt="image" src="https://github.com/user-attachments/assets/872212ea-8d09-491b-ba77-875f51548b2c" />
-<img width="633" height="988" alt="image" src="https://github.com/user-attachments/assets/4a4062f4-0a79-4722-8a7c-7b9cd6ed8bfd" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a7f655c8-53dc-427b-a224-eca6962474da" />
 
-Dapat dilihat ketika kita menambahkan produk lain ke dalam keranjang, akan terlihat notifikasi pesan yang memberikan informasi nama produk yang telah kamu tambahkan ke dalam keranjang
 
 ---
 ### 3. Mencoba untuk menambahkan jumlah produk dari keranjang.
